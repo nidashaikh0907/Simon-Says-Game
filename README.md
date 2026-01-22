@@ -31,6 +31,3 @@
 - Array comparison logic  
 - Game state management  
 
-
-## 🧑‍💻 Author
-Nida Sameer Shaikh
